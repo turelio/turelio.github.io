@@ -1,0 +1,63 @@
+
+
+body {
+    background-color: #fff3cd;
+    color: black;
+    padding: 1em;
+    font-family: Courier;
+}
+
+
+a {
+    color: #4ecfca;
+    text-decoration: underline dashed;
+}
+
+a:hover {
+    cursor: pointer;
+    color: #F592B2;
+    text-decoration: underline solid;
+}
+
+small {
+    color: #4CAF50;
+    font-style: italic;
+    font-weight: light;
+    font-size: 0.8em;
+}
+
+
+h1 {
+    font-size: 1.2em;
+
+}
+
+h2 {
+    color: #27918c;
+    font-size: 1.1em;
+
+}
+
+h4 {
+    color: #27918c;
+    font-weight: bold;
+    font-size: 1em;    
+}
+
+h2::before {
+    content: " ➡ ";
+}
+
+
+h4::before {
+    content:" ↘ ";
+}
+
+ul {
+    list-style-type: " ○ ";
+}
+
+li {
+    margin: 0.2em;
+}
+
