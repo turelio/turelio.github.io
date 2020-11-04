@@ -1,0 +1,30 @@
+
+
+body {
+	max-width: 50em;
+	margin: auto;
+	padding: 15px;
+	background: white;
+	margin-top: 5px;
+	background-color: #F7EEE0;
+	color: black;
+	padding: 1em;
+	font-family: Courier;
+	font-size: 18px;
+}
+
+header, nav, footer {
+	text-align: center
+}
+
+
+a:link, a:visited {
+    	color: black;
+
+}
+
+a:hover {
+	text-decoration:underline dashed;
+}
+
+
