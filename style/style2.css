@@ -28,3 +28,8 @@ a:hover {
 }
 
 
+blockquote {
+    border-left-style: solid;
+    border-left-width: 4px;
+    padding: 5px;
+}
