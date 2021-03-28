@@ -1,3 +1,205 @@
+21/03/24-1-RESR-MEM-japanese-anki
+21/03/24-1-RESR-MEM-bovolo-geography anki
+21/03/23-1-PHYS-SET-campanile-upgrade
+21/03/22-1-PHYS-SET-campanile-gpu install
+21/03/20-1-RESR-STD-gdev-ludotronics-finished skimming
+21/03/20-1-PHYS-ECO-freelance-paczka dla jedrzeja
+21/03/20-1-RESR-MEM-japanese-anki
+21/03/20-1-RESR-MEM-bovolo-geography anki
+21/03/19-3-CREA-PER-pascha-proba triduum
+21/03/19-1-PHYS-SET-campanile-ram+monitor test
+21/03/18-2-PHYS-DIY-campanile-cleaning, reassembling pc
+21/03/17-2-PHYS-PUR-campanile-buying gpu, r and monitor
+21/03/17-1-RESR-MEM-bovoli-geography anki
+21/03/17-1-PHYS-PRV-home-zakupy
+21/03/16-1-RESR-STD-gdev-ludotronics-cont.
+21/03/15-1-PHYS-PRV-home-zakupy
+21/03/15-1-PHYS-SRC-campanile-looking for pc parts
+21/03/15-2-DATA-SET-campanile-unfucking w10-fruitless effort
+21/03/14-1-RESR-STD-gdev-ludotronics-cont.
+21/03/14-1-RESR-STD-dev-exploratory programming for humanities
+21/03/13-2-RESR-MEM-bovolo-geography full test-136 minutes, 1395 cards
+21/03/13-1-DATA-MNT-murano-clearing yt playlists
+21/03/13-1-DATA-DOC-bovolo-ffmpeg and ytdl cookbook
+21/03/12-3-CREA-PER-pascha-proba triduum
+21/03/12-1-CREA-EDI-calle-namarie song release-editing and subtitles
+21/03/11-2-RESR-LEC-gdev-jblow interview
+21/03/11-1-PHYS-ECO-calle-negocjacja umów z orange
+21/03/11-3-DATA-SET-murano-final transfer to linux
+21/03/10-1-PHYS-MNT-freelance-inwentarz-wydawanie rzeczy
+21/03/07-1-RESR-STD-gdev-ludotronics
+21/03/05-3-CREA-PER-pascha-proba triduum
+21/03/03-3-RESR-STD-foscari-book about addictions
+21/03/03-1-DATA-MNT-murano-rewriting nites-cd.
+21/03/02-1-PHYS-MNT-home-acorn hunting
+21/03/01-1-DATA-INS-resolutions-february summary
+21/02/28-3-RES-DOC-rewriting saved notes
+21/02/27-1-RES-DOC-murano-turning screenshots into new notes
+21/02/27-2-RESR-INS-murano-reading through old notes
+21/02/27-1-DATA-MNT-pesaro-sorting
+21/02/26-3-CREA-PER-pascha-proba do triduum
+21/02/23-2-DATA-MNT-ottagono-sorting books
+21/02/23-1-RESR-LEC-games-jblow and muratori, design talk
+21/02/22-1-DATA-SRC-ottagono-looking for books
+21/02/18-1-PHYS-PRV-calle-odbieranie paczek
+21/02/15-4-RESR-STD-foscari-curtis, new doc-fin
+21/02/14-1-RESR-STD-foscari-curtis, new doc
+21/02/13-1-PHYS-MNT-home-room room cleaning
+21/02/13-1-DATA-MNT-pesaro-sorting
+21/02/13-1-RESR-STD-foscari-curtis, new doc
+21/02/12-1-RESR-STD-foscari-curtis, new doc
+21/02/10-2-DATA-MNT-calle-deleting facebook activity
+21/02/10-2-RESR-LEC-foscari-gore, inconvenient truth
+21/02/09-1-PHYS-ECO-freelance-wydawanie inwentarza
+21/02/08-1-PHYS-MNT-home-odsniezanie
+21/01/31-1-RESR-STD-foscari-orlov, new age of sail
+21/01/31-1-PHYS-MNT-home-shoveling
+21/01/31-1-CREA-CON-games-seapunk rpg idea
+21/01/30-1-CREA-INS-grassi-reminiscing about childhood
+21/01/26-1-PHYS-DIY-home-pomoc w podwyzszaniu krzesła
+21/01/25-2-PHYS-ECO-bach-odebranie dyplomu
+21/03/24-1-RESR-MEM-japanese-anki
+21/03/24-1-RESR-MEM-bovolo-geography anki
+21/03/23-1-PHYS-SET-campanile-upgrade
+21/03/22-1-PHYS-SET-campanile-gpu install
+21/03/20-1-RESR-STD-gdev-ludotronics-finished skimming
+21/03/20-1-PHYS-ECO-freelance-paczka dla jedrzeja
+21/03/20-1-RESR-MEM-japanese-anki
+21/03/20-1-RESR-MEM-bovolo-geography anki
+21/03/19-3-CREA-PER-pascha-proba triduum
+21/03/19-1-PHYS-SET-campanile-ram+monitor test
+21/03/18-2-PHYS-DIY-campanile-cleaning, reassembling pc
+21/03/17-2-PHYS-PUR-campanile-buying gpu, r and monitor
+21/03/17-1-RESR-MEM-bovoli-geography anki
+21/03/17-1-PHYS-PRV-home-zakupy
+21/03/16-1-RESR-STD-gdev-ludotronics-cont.
+21/03/15-1-PHYS-PRV-home-zakupy
+21/03/15-1-PHYS-SRC-campanile-looking for pc parts
+21/03/15-2-DATA-SET-campanile-unfucking w10-fruitless effort
+21/03/14-1-RESR-STD-gdev-ludotronics-cont.
+21/03/14-1-RESR-STD-dev-exploratory programming for humanities
+21/03/13-2-RESR-MEM-bovolo-geography full test-136 minutes, 1395 cards
+21/03/13-1-DATA-MNT-murano-clearing yt playlists
+21/03/13-1-DATA-DOC-bovolo-ffmpeg and ytdl cookbook
+21/03/12-3-CREA-PER-pascha-proba triduum
+21/03/12-1-CREA-EDI-calle-namarie song release-editing and subtitles
+21/03/11-2-RESR-LEC-gdev-jblow interview
+21/03/11-1-PHYS-ECO-calle-negocjacja umów z orange
+21/03/11-3-DATA-SET-murano-final transfer to linux
+21/03/10-1-PHYS-MNT-freelance-inwentarz-wydawanie rzeczy
+21/03/07-1-RESR-STD-gdev-ludotronics
+21/03/05-3-CREA-PER-pascha-proba triduum
+21/03/03-3-RESR-STD-foscari-book about addictions
+21/03/03-1-DATA-MNT-murano-rewriting nites-cd.
+21/03/02-1-PHYS-MNT-home-acorn hunting
+21/03/01-1-DATA-INS-resolutions-february summary
+21/02/28-3-RES-DOC-rewriting saved notes
+21/02/27-1-RES-DOC-murano-turning screenshots into new notes
+21/02/27-2-RESR-INS-murano-reading through old notes
+21/02/27-1-DATA-MNT-pesaro-sorting
+21/02/26-3-CREA-PER-pascha-proba do triduum
+21/02/23-2-DATA-MNT-ottagono-sorting books
+21/02/23-1-RESR-LEC-games-jblow and muratori, design talk
+21/02/22-1-DATA-SRC-ottagono-looking for books
+21/02/18-1-PHYS-PRV-calle-odbieranie paczek
+21/02/15-4-RESR-STD-foscari-curtis, new doc-fin
+21/02/14-1-RESR-STD-foscari-curtis, new doc
+21/02/13-1-PHYS-MNT-home-room room cleaning
+21/02/13-1-DATA-MNT-pesaro-sorting
+21/02/13-1-RESR-STD-foscari-curtis, new doc
+21/02/12-1-RESR-STD-foscari-curtis, new doc
+21/02/10-2-DATA-MNT-calle-deleting facebook activity
+21/02/10-2-RESR-LEC-foscari-gore, inconvenient truth
+21/02/09-1-PHYS-ECO-freelance-wydawanie inwentarza
+21/02/08-1-PHYS-MNT-home-odsniezanie
+21/01/31-1-RESR-STD-foscari-orlov, new age of sail
+21/01/31-1-PHYS-MNT-home-shoveling
+21/01/31-1-CREA-CON-games-seapunk rpg idea
+21/01/30-1-CREA-INS-grassi-reminiscing about childhood
+21/01/26-1-PHYS-DIY-home-pomoc w podwyzszaniu krzesła
+21/01/25-2-PHYS-ECO-bach-odebranie dyplomu
+21/01/16-1-PHYS-PRV-calle-nowe buty zimowe
+21/01/14-6-DATA-TRN-freelance-nieagencja-content na strony
+21/01/12-2-RESR-STD-foscari-daily rituals-fin
+21/01/11-1-RESR-STD-foscari-daily rituals
+21/01/11-1-RESR-STD-bovolo-sailing basics-terms and glossary
+21/01/11-2-DATA-MNT-resolutions-2020 backups
+21/01/10-2-RESR-STD-foscari-daily rituals
+21/01/10-1-RESR-DOC-foscari-botton, news a user's manual-notes
+21/01/09-2-CREA-EXP-ottagono-tablet practice
+21/01/08-2-CREA-TRN-japanese-hakumiko v8 reading
+21/01/08-1-RESR-STD-foscari-how to read a book
+21/01/08-1-RESR-STD-foscari-botton, news a user's manual-fin
+21/01/07-2-RESR-STD-foscari-botton, news a user's manual
+21/01/06-1-RESR-STD-foscari-botton, news a user's manual
+21/01/06-2-CREA-CON-rpg-vtm-karta postaci artura
+21/01/06-2-DATA-DOC-freelance-inwentaryzacja rzeczy
+21/01/06-1-PHYS-MNT-freelance-przenoszenie rzeczy
+21/01/05-1-PHYS-MNT-freelance-przenoszenie rzeczy
+21/01/04-2-PHYS-MNT-freelance-segregacja mebli z 3m.
+21/01/03-6-PHYS-MNT-freelance-transport, alokacja rzeczy z 3m.
+21/01/01-1-DATA-MNT-pesaro-sorting
+21/01/01-1-DATA-INS-resolutions-podsumowanie 2020
+20/12/31-1-DATA-INS-resolutions-poczatek rocznych podsumowań
+20/12/30-1-CREA-INS-masegno-notes on hunters
+20/12/30-3-DATA-INS-resolutions-poczatek rocznych podsumowań
+20/12/24-1-PHYS-PRV-home-uszka-92+10 klary
+20/12/23-2-PHYS-MNT-home-choinka, sprzatanie
+20/12/23-1-CREA-SKE-ottagono-tablet setup and practice-pont portrait
+20/12/22-1-RESR-STD-fairy-misc articles
+20/12/21-2-RESR-PER-bach-obrona-na 5
+20/12/20-5-RESR-MEM-bach-pytania do obrony
+20/12/19-3-RESR-MEM-bach-pytania do obrony
+20/12/17-1-CREA-COM-rpg-masquerade character
+20/12/16-3-RESR-STD-foscari-the shallows-finish
+20/12/16-1-DATA-MNT-masegno-organizing notes
+20/12/15-1-RESR-STD-foscari-kaczynski, manifesto-finish
+20/12/10-1-RESR-STD-foscari-kaczynski, manifesto
+20/12/10-2-RESR-LEC-foscari-chomsky, berger talk
+20/12/10-1-RESR-MEM-bovolo-geography anki
+20/12/10-2-CREA-LEC-foscari-berger, ways of seeing
+20/12/08-3-RESR-LEC-foscari-manufacturing consent
+20/12/08-3-RESR-LEC-foscari-curtis, the trap
+20/12/05-1-DATA-SET-murano-ubuntu install
+20/12/04-1-DATA-REL-bach-wgranie-pracy
+20/12/04-1-RESR-MEM-japanese-anki
+20/12/04-1-RESR-MEM-bovolo-geography anki
+20/12/03-1-DATA-EDI-bach-poprawki od promotora
+20/12/03-1-CREA-SKE-ottagono-sketching practice
+20/12/02-1-DATA-MNT-pesaro-sorting
+20/12/02-1-DATA-MNT-murano-bookmark cleaning
+20/12/02-1-DATA-COD-dev-advent of code 1+2
+20/12/02-2-DATA-EDI-bach-korekta i wyslanie
+20/12/01-3-DATA-EDI-bach-redakcja i korekta
+20/12/01-1-DATA-INS-resolutions-monthly summary
+20/11/30-1-RESR-MEM-bovolo-geography anki
+20/11/29-2-DATA-EDI-bach-biblio i wyslanie pracy
+20/11/29-5-DATA-COM-bach-finish
+20/11/28-1-DATA-EDI-bach-sugestie agi
+20/11/28-1-RESR-STD-foscari-daily stoic
+20/11/27-1-RESR-STD-foscari-daily stoic
+20/11/27-1-RESR-MEM-japanese-anki
+20/11/26-1-RESR-MEM-bovolo-geography anki
+20/11/25-5-RESR-COM-bach-finishin up
+20/11/24-7-RESR-COM-bach-ch 0 1.1 2.3 3.3
+20/11/24-1-RESR-STD-foscari-daily stoic
+20/11/23-2-RESR-STD-foscari-daily stoic
+20/11/23-1-RESR-MEM-bovolo-geography anki
+20/11/22-2-RESR-STD-foscari-daily stoic
+20/11/20-2-RESR-STD-foscari-daily stoic
+20/11/20-1-RESR-MEM-bovolo-geography anki
+20/11/19-2-DATA-COM-bach-ch2.2
+20/11/18-6-DATA-COM-bach-ankiety
+20/11/17-1-RESR-MEM-bovolo-geography anki
+20/11/16-2-RESR-COD-dev-learn python the hard way
+20/11/14-2-RESR-STD-foscari-the shallows
+20/11/14-1-DATA-SET-murano-domain blockers
+20/11/13-1-RESR-MEM-bovolo-anki-geography
+20/11/12-3-DATA-SET-murano-w10 config
+20/11/12-1-DATA-MNT-foscari-cleaning book library
+20/11/11-2-DATA-SET-murano-changing ssd drives
+20/11/08-1-RESR-MEM-bovolo-anki-geography
+20/11/07-2-PHYS-MNT-home-autumn yardwork-liscie
 20/11/05-2-DATA-COD-website-integrating scalzi data
 20/11/05-5-DATA-COD-scalzi-porting features from phyp to python
 20/11/05-1-DATA-REL-website-first push online to github pages
