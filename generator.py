@@ -5,7 +5,7 @@ import scalzi as sc
 
 temp_head='<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>tomasz stecko</title><meta charset="UTF-8&gt;&lt;meta name=" viewport"="" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" href="../style/style2.css"></head>'
 temp_header='<body><header><b><a href="index.html">tomasz stecko</a></b></header>'
-temp_footer='<hr><footer><a href="http://webring.xxiivv.com/#" target="_blank">webring</a> * <a href="https://merveilles.town/@tomasteck">mastodon</a> * <a href="https://twitter.com/turelio">twitter</a><br><i>2016-2020</i></footer></body></html>'
+temp_footer='<hr><footer><a href="http://webring.xxiivv.com/#" target="_blank">webring</a> * <a href="https://merveilles.town/@tomasteck">mastodon</a><br><i>2016-2021</i></footer></body></html>'
 nav_default ='index.html now.html projects.html logs.html personal.html about.html'
 
 # GET ADDITIONAL INFO
