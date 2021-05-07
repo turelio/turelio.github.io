@@ -176,7 +176,7 @@
 20/12/24-1-PHYS-PRV-home-uszka-92+10 klary
 20/12/23-2-PHYS-MNT-home-choinka, sprzatanie
 20/12/23-1-CREA-SKE-ottagono-tablet setup and practice-pont portrait
-20/12/22-1-RESR-STD-fairy-misc articles
+20/12/22-1-RESR-STD-folklore-misc articles
 20/12/21-2-RESR-PER-bach-obrona-na 5
 20/12/20-5-RESR-MEM-bach-pytania do obrony
 20/12/19-3-RESR-MEM-bach-pytania do obrony
@@ -245,8 +245,8 @@
 20/11/03-1-RESR-MEM-bovolo-geography anki
 20/11/02-2-RESR-STD-bovolo-medieval ironmaking
 20/11/01-1-DATA-INS-resolutions-november summary
-20/10/31-1-RESR-STD-fairy-misc articles
-20/10/31-1-RESR-STD-fairy-misc articles
+20/10/31-1-RESR-STD-folklore-misc articles
+20/10/31-1-RESR-STD-folklore-misc articles
 20/10/31-1-PHYS-MNT-home-czyszczenie kaloryferów
 20/10/30-1-PHYS-MNT-home-sprzątanie grobów
 20/10/29-1-RESR-STD-bovolo-geography
@@ -274,7 +274,7 @@
 20/10/08-1-PHYS-MNT-kikou-ogarnianie działki
 20/10/08-1-PHYS-MNT-kikou-ogarnianie działki
 20/10/04-3-PHYS-MNT-home-przeglad butow i ciuchow
-20/09/30-1-RESR-STD-fairy-misc articles-ruth tongue
+20/09/30-1-RESR-STD-folklore-misc articles-ruth tongue
 20/09/28-3-CREA-PER-medtek-chor-inauguracja
 20/09/26-2-DATA-MNT-pesaro-sorting
 20/09/25-1-PHYS-ECO-bach-podanie o przedluzenie
@@ -298,7 +298,7 @@
 20/09/02-2-RESR-DOC-masegno-notes on ERE
 20/09/01-1-RESR-LEC-bovolo-kris de decker talk
 20/09/01-1-DATA-MNT-murano-cleaning windows partition, archiving
-20/08/28-6-PHYS-VIT-kikou-rowerem do warszawy
+20/08/28-6-PHYS-TRV-kikou-rowerem do warszawy
 20/08/26-1-RESR-DOC-masegno-notes on ERE
 20/08/10-1-RESR-LEC-foscari-foucault chomsky debate
 20/08/10-1-RESR-DOC-masegno-notes on ERE
@@ -314,8 +314,8 @@
 20/07/30-1-CREA-SKE-ottagono-manga study cont.
 20/07/25-2-PHYS-MNT-calle-koszenie u babci
 20/07/24-1-DATA-MNT-pesaro-sorting
-20/07/24-1-RESR-STD-fairy-dmt fairies
-20/07/23-1-RESR-STD-fairy-misc articles
+20/07/24-1-RESR-STD-folklore-dmt fairies
+20/07/23-1-RESR-STD-folklore-misc articles
 20/07/22-1-RESR-SET-murano-emacs tutorial
 20/07/22-1-DATA-SET-murano-ubuntu install
 20/07/18-1-CREA-SKE-ottagono-manga study
@@ -329,7 +329,7 @@
 20/07/08-1-PHYS-PRV-kikou-pakowanie ma działkę
 20/07/05-3-RESR-DOC-bovolo-spisanie instrukcji do mahjonga
 20/06/29-3-DATA-INS-bach-analiza ankiety
-20/06/29-1-RESR-STD-fairy-new fis newsletter
+20/06/29-1-RESR-STD-folklore-new fis newsletter
 20/06/29-1-RESR-STD-foscari-logicomix-finish
 20/06/22-2-DATA-COM-bach-ankieta o mastodonie
 20/06/22-3-DATA-COM-bach-rozdzial z definicjami
@@ -355,7 +355,7 @@
 20/05/28-1-RESR-DOC-bovolo-youtubedl cheatsheet
 20/05/27-1-RESR-LEC-medtek-php-session superglobals
 20/05/26-1-CREA-PER-medtek-choir-gaudeamus
-20/05/25-1-RESR-STD-fairy-fairy queens and holy friars
+20/05/25-1-RESR-STD-folklore-fairy queens and holy friars
 20/05/25-1-RESR-LEC-medtek-tv-omowienie prac
 20/05/25-1-CREA-PER-medtek-choir-zaliczenie głosowe
 20/05/22-1-DATA-MNT-pesaro-sorting
@@ -419,7 +419,7 @@
 20/03/25-1-PHYS-MNT-home-yardwork
 20/03/23-1-RESR-LEC-medtek-bazy danych zdalnie
 20/03/23-1-CREA-CON-rpg-art campaign ideas
-20/03/21-1-RESR-DOC-fairy-notes on etnography
+20/03/21-1-RESR-DOC-folklore-notes on etnography
 20/03/19-1-CREA-MNT-pesaro-sorting gallery
 20/03/19-1-PHYS-MNT-ottagono-sorting drawing supplies
 20/03/19-2-DATA-TRN-freelance-unbabel-25$, finish
@@ -476,7 +476,7 @@
 20/02/11-1-RESR-MEM-japanese-n4n3
 20/02/11-2-DATA-MNT-murano-sortowanie zdjęć i backupow
 20/02/10-1-RESR-MEM-japanese-n4n3
-20/02/08-1-RESR-LEC-fairy-interview with neil rushton
+20/02/08-1-RESR-LEC-folklore-interview with neil rushton
 20/02/08-2-RESR-STD-nutrition-art of fermentation-finisz i notatki
 20/02/08-1-RESR-MEM-japanese-n4n3
 20/02/07-1-DATA-MNT-pesaro-sorting
@@ -517,7 +517,7 @@
 20/01/21-2-DATA-MNT-campanile-migracja zdjec na dysk zewnętrzny
 20/01/20-2-RESR-LEC-medtek-cms&kryzysy
 20/01/20-1-CREA-INS-grassi-catchup
-20/01/20-1-RESR-STD-fairy-bee lore
+20/01/20-1-RESR-STD-folklore-bee lore
 20/01/19-1-RESR-MEM-japanese-n4
 20/01/18-3-CREA-SKE-ottagono-hands&feet
 20/01/17-2-RESR-STD-foscari-bartending book
@@ -580,11 +580,11 @@
 19/12/09-3-RESR-LEC-medtek-cms&eksploatacja&risk mngmnt
 19/12/09-1-CREA-INS-grassi-catchup
 19/12/08-2-CREA-PER-pascha-msza rekolekcyjna
-19/12/08-2-RESR-STD-fairy-magonia po polsku
+19/12/08-2-RESR-STD-folklore-magonia po polsku
 19/12/07-1-RESR-STD-foscari-raising the bar-finish
 19/12/06-3-RESR-STD-foscari-raising the bar-uncut manuscript
 19/12/05-2-RESR-STD-foscari-raising the bar
-19/12/05-1-RESR-STD-fairy-misc articles
+19/12/05-1-RESR-STD-folklore-misc articles
 18/12/05-1-DATA-SET-medtek-ad premiere overview
 19/12/04-1-RESR-STD-foscari-raising the bar
 19/12/04-4-CREA-STD-ottagono-landscape
@@ -596,7 +596,7 @@
 19/12/02-1-RESR-LEC-medtek-crisis mngmnt
 19/12/02-1-CREA-STD-foscari-alan lee sketchbook
 19/12/01-1-DATA-INS-resolutions-november summary
-19/11/30-2-RESR-STD-fairy-froud&lee's faeries
+19/11/30-2-RESR-STD-folklore-froud&lee's faeries
 19/11/28-3-PHYS-MNT-home-naprawa hydroforu
 19/11/28-1-CREA-EDI-medtek-photoshop exam
 19/11/27-3-CREA-SKE-ottagono-still nature 2
@@ -606,7 +606,7 @@
 19/11/25-1-RESR-LEC-medtek-crisis mngmnt
 19/11/25-1-DATA-EDI-medtek-cms-editing site
 19/11/25-1-DATA-MNT-pesaro-sorting
-19/11/23-1-DATA-COM-fairy-szklana kula-mail do sary
+19/11/23-1-DATA-COM-folklore-szklana kula-mail do sary
 19/11/22-1-CREA-INS-grassi-catchup
 19/11/21-2-PHYS-MNT-home-fall wrapup & room
 19/11/21-2-CREA-EDI-medtek-photoshop finish
@@ -666,7 +666,7 @@
 19/10/17-1-CREA-SRC-comic-agsa-history of iterations cont.
 19/10/16-3-CREA-SKE-ottagono-rapid model pose sketches
 19/10/16-1-CREA-SRC-comic-agsa-gathering various iterations of lionheart
-19/10/16-2-RESR-STD-fairy-misc articles
+19/10/16-2-RESR-STD-folklore-misc articles
 19/10/16-1-RESR-LEC-medtek-IT security
 19/10/15-2-DATA-LEC-bach-seminarium
 19/10/14-2-RESR-STD-foscari-how to do nothing-cont.
@@ -721,9 +721,9 @@
 19/09/06-1-CREA-CON-comic-wolnoś-pomysl o czlowieku zmieniającym wagę wraz ze stresem
 19/09/05-1-CREA-PER-pascha-proba na rocznice slubu ani
 19/09/04-2-RESR-STD-foscari-finite and infinite games
-19/09/03-1-CREA-INS-fairy-raport o swiatlach nad domem na fairy census
-19/09/03-2-RESR-STD-fairy-FIS newsletters cont.
-19/09/02-2-RESR-STD-fairy-FIS newsletters
+19/09/03-1-CREA-INS-folklore-raport o swiatlach nad domem na fairy census
+19/09/03-2-RESR-STD-folklore-FIS newsletters cont.
+19/09/02-2-RESR-STD-folklore-FIS newsletters
 19/09/01-1-RESR-STD-nutrition-fermentation cont.
 19/09/01-1-CREA-TRN-ykk-volume 1 finish
 19/09/01-1-DATA-MNT-scalzi-cleaning up database
@@ -782,7 +782,7 @@
 19/07/18-1-RESR-LEC-dev-jblow & prototypes
 19/07/16-3-PHYS-PRV-calle-grill handling
 19/07/15-3-CREA-INS-grassi-catching up through june
-19/07/12-1-RESR-STD-fairy-slavic creatures
+19/07/12-1-RESR-STD-folklore-slavic creatures
 19/07/12-1-DATA-MNT-masegno-note cleaning
 19/07/11-1-CREA-SKE-ottagono-tocotoco sketches
 19/07/10-1-CREA-SKE-ottagono-tocotoco sketches
@@ -906,7 +906,7 @@
 19/03/26-3-RESR-LEC-medtek-sądownictwo
 19/03/26-3-RESR-LNG-japanese-revision
 19/03/26-1-CREA-INS-grassi-catchup
-19/03/25-2-RESR-STD-fairy-DMT elves & book reviews
+19/03/25-2-RESR-STD-folklore-DMT elves & book reviews
 19/03/25-2-RESR-LEC-medtek-logistics 
 19/03/23-2-PHYS-PER-pascha-proba do misterium
 19/03/23-1-CREA-PER-pascha-proba triduum
@@ -918,10 +918,10 @@
 19/03/19-4-DATA-MNT-pesaro-major reorganization
 19/03/19-1-RESR-STD-medtek
 19/03/19-3-RESR-LNG-japanese
-19/03/18-1-RESR-STD-fairy-taxonomy
+19/03/18-1-RESR-STD-folklore-taxonomy
 19/03/18-4-RESR-LEC-medtek-transfer technologii
 19/03/17-2-CREA-PER-pascha-niedzielnie granie
-19/03/17-1-RESR-STD-fairy-deadbutdreaming
+19/03/17-1-RESR-STD-folklore-deadbutdreaming
 19/03/16-3-CREA-PER-pascha-proba na triduum
 19/03/14-3-RESR-LEC-medtek-infrastructure
 19/03/13-2-RESR-STD-medtek-umowy mediowe
@@ -1006,8 +1006,8 @@
 19/01/07-2-DATA-COM-medtek-tech w edukacji-blog
 19/01/04-7-CREA-COM-freelance-toolmates-january
 19/01/03-1-CREA-CON-comic-agsa-fight sequences
-19/01/02-2-RESR-STD-fairy-polish folklore & huldufolk
-19/01/01-2-RESR-STD-fairy-polish folklore
+19/01/02-2-RESR-STD-folklore-polish folklore & huldufolk
+19/01/01-2-RESR-STD-folklore-polish folklore
 19/01/01-2-DATA-COM-grassi-finished last calendar, started a new one
 18/12/31-1-DATA-INS-resolutions-final summary
 18/12/30-2-DATA-MNT-murano-bookmark cleaning
@@ -1049,7 +1049,7 @@
 18/12/05-1-DATA-COM-grassi-weekly catchup
 18/12/05-4-RESR-LEC-medtek-mngmnt
 18/12/04-3-RESR-LNG-japanese-informal speech
-18/12/03-1-RESR-STD-fairy-catchup with FIS newsletters
+18/12/03-1-RESR-STD-folklore-catchup with FIS newsletters
 18/12/03-2-CREA-EDI-freelance-toolmates-dec pics
 18/12/03-2-RESR-LEC-medtek-economics
 18/12/02-4-CREA-EDI-freelance-toolmate-dec pics
@@ -1058,7 +1058,7 @@
 18/11/30-3-CREA-COM-freelance-toolmates-december
 18/11/29-2-CREA-COM-freelance-esej dla krzycha
 18/11/28-4-CREA-COM-freelance-esej dla krzycha
-18/11/28-1-RESR-STD-fairy-changelings, fairy metaphysics, book reviews
+18/11/28-1-RESR-STD-folklore-changelings, fairy metaphysics, book reviews
 18/11/28-4-RESR-LEC-medtek-mngmnt, finance
 18/11/28-1-RESR-INS-masegno-shadow work cont.
 18/11/27-2-RESR-INS-masegno-jungian shadows and introspective writing
@@ -1166,7 +1166,7 @@
 18/09/07-1-RESR-COD-dev-regex
 18/09/06-3-RESR-STD-dev-variety of articles
 18/09/06-1-PHYS-MNT-home-home cleaning
-18/09/05-1-RESR-STD-fairy-standing stones and finnish folklore
+18/09/05-1-RESR-STD-folklore-standing stones and finnish folklore
 18/09/05-1-RESR-COD-dev-js databases
 18/09/05-1-DATA-EXP-website-playing with oscean
 18/09/02-2-DATA-INS-resolutions-new csv for some stats
@@ -1264,7 +1264,7 @@
 18/06/12-2-RESR-COD-dev-godot-basics and scripting
 18/06/12-3-DATA-COD-scalzi-v0.6-new visualization and parsing, multiple sheets
 18/06/12-1-RESR-STD-dev-paper about designing for friendship patterns 
-18/06/11-1-RESR-STD-fairy-summary of fairy census
+18/06/11-1-RESR-STD-folklore-summary of fairy census
 18/06/11-2-RESR-LEC-dev-engelbart's mother of all demos
 18/06/11-1-DATA-MNT-grassi-catchup
 18/06/09-2-DATA-SRC-murano-weekly catchup
@@ -1309,7 +1309,7 @@
 18/05/15-1-RESR-MEM-japanese-anki
 18/05/14-2-DATA-SET-murano-customized murano
 18/05/14-1-PHYS-ECO-murano-bought a thinkpad
-18/05/13-1-RESR-STD-fairy-encyclopedias and fairy indices
+18/05/13-1-RESR-STD-folklore-encyclopedias and fairy indices
 18/05/13-2-DATA-SRC-campanile-weekly catchup
 18/05/12-1-DATA-SRC-campanile-weekly catchup
 18/05/11-2-PHYS-EXE-swimming-tournament

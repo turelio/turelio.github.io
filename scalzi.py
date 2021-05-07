@@ -26,18 +26,12 @@ def parse_db(data):
 
 # draws simple html table from database
 def draw_table(data):
-	table = '<table><tr><th>Date</th><th>Hours spent</th><th>Categories</a></th><th>Project</a></th><th>Info</th></tr>'
+	table = '<table><tr><th>Date</th><th>Time spent</th><th>Categories</a></th><th>Project</a></th><th>Info</th></tr>'
 	for i in data:
-		row = '<tr><td>'+i['date']+'</td><td>'+i['hour']+'</td><td>'+i['cat']+'<br>'+i['sub']+'</td><td>'+i['project']+'</td><td>'+i['title']+'<br>'+i['desc']+'</td></tr>'
+		row = '<tr><td>'+str(i['date'])+'</td><td>'+i['hour']+'h</td><td>'+i['cat']+'<br>'+i['sub']+'</td><td>'+i['project']+'</td><td>'+i['title']+'<br>'+i['desc']+'</td></tr>'
 		table = table+row
 	table = table+'</table>'
 	return table
-
-# test function
-def write_tofile(source):
-	f = open("scalzitest.html", "w")
-	f.write(source)
-	f.close()
 
 
 # returns total hours in database
@@ -67,7 +61,7 @@ def filter_year(data, year):
 def filter_month(data, month):
 	newdata = []
 	for i in data:
-		if str(i['date'])[0 : 4] == str(year):
+		if str(i['date'])[5 : 7] == str(month):
 			newdata.append(i)
 	return newdata
 
@@ -93,19 +87,11 @@ def get_hours(data, column):
 		stats[i] = count_hours(filter_db(data, column, i))
 	return sorted(stats.items(), key=lambda x: x[1], reverse=True)  
 
-# uses return from get_hours to draw a table
-def draw_hour_table(stats, column):
-	table='<table style="float: left"><tr><th>'+column+'</th><th>Hours</th></tr>'
-	for i in stats:
-		 table+='<tr><td>'+str(i[0])+'</td><td>'+str(i[1])+'h</td></tr>'
-	table+='</table>'
-	return table
-
-# same as above, but list 
-def draw_hour_list(stats):
+# same as above, but list. column can be project- sub- or cat-
+def draw_hour_list(stats, column=''):
 	lista='<ul style="columns: 2">'
 	for i in stats:
-		 lista+='<li><a href="project-'+str(i[0])+'.html">'+str(i[0])+'</a>	- '+str(i[1])+'h</li>'
+		 lista+='<li><a href="'+column+str(i[0])+'.html">'+str(i[0])+'</a>	- '+str(i[1])+'h</li>'
 	lista+='</ul>'
 	return lista
 
@@ -125,81 +111,153 @@ def expand(word):
 	else:
 		return word
 
-# builds a titled summary page in scalzi folder
-def build_yearly_page(data, title):
-	list1 = '<p><a href="date.html">date</a> - hours - <a href="cat.html">category</a> - <a href="sub.html">subcategory</a> - <a href="project.html">project</a> - title - description</p><hr>'
-	list1 += "<h1>"+str(title)+"</h1>"
-	projectlist = draw_hour_list(get_hours(data, 'project'))
-	catlist = draw_hour_list(get_hours(data, 'cat'))
-	sublist = draw_hour_list(get_hours(data, 'sub'))
+# TEMPLATES
+
+def temp_header():
+	header = '<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>scalzi</title><meta charset="UTF-8&gt;&lt;meta name=" viewport"="" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" href="../style/style1.css"></head><body><p>by <a href="date.html">date</a> - <a href="cat.html">category</a> - <a href="sub.html">subcategory</a> - <a href="project.html">project</a></p><hr>'
+	return header
+
+def temp_date_nav():
+	nav=''
+	year_end=datetime.today().strftime('%Y')
+	month_end=datetime.today().strftime('%m')
+	log_end = (year_end)+str(month_end)
+	log_start = '201707'
+	list_year = ['2021', '2020', '2019', '2018', '2017']
+	list_month = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+	for i in list_year:
+		nav+='<p><a href="date-'+i+'.html">'+i+'</a> ( '
+		for j in list_month:
+			if int(i+j)<= int(log_end) and int(i+j)>=int(log_start):
+				nav+='<a href="date-'+i+'-'+j+'.html">'+j+'</a> '
+		nav+=')</p>'
+	nav += '<hr>'
+	return nav
+
+# NEW BUILD FUNCTIONS
+
+# inputs body sourcecode, writes to file
+def build_page(body_code, title):
+	html_code = temp_header()
+	html_code += body_code
+	html_code += '</body></html>'
+	f = open("scalzi/"+title+".html", "w")
+	f.write(html_code)
+	f.close()
+
+# Project pages
+
+def build_page_project_summary(data):
+	list = '<h1>Projects</h1>'
+	list += draw_hour_list(get_hours(data, 'project'), 'project-')
+	build_page(list, 'project')
+
+def build_page_project(data, title):
+	list1 = "<h1>"+str(title)+"</h1>"
+	catlist = draw_hour_list(get_hours(data, 'cat'), 'cat-')
+	sublist = draw_hour_list(get_hours(data, 'sub'), 'sub-')
+	list1+= '<h2>Categories</h2><p>'+catlist+'</p>'
+	list1+= '<h2>Subcategories</h2><p>'+sublist+'</p>'
+	list1+= draw_table(data)
+	prefix='project-'+title
+	build_page(list1, prefix)
+
+def build_page_project_all(data):
+	projectlist = get_hours(data, 'project')
+	for i in projectlist:
+		build_page_project(filter_db(data, 'project', i[0]), i[0])
+
+# Subcategory pages
+
+def build_page_sub_summary(data):
+	list = '<h1>Subcategories</h1>'
+	list += draw_hour_list(get_hours(data, 'sub'), 'sub-')
+	build_page(list, 'sub')
+
+
+def build_page_sub(data, title):
+	list1 = "<h1>"+str(title)+"</h1>"
+	catlist = draw_hour_list(get_hours(data, 'cat'), 'cat-')
+	projectlist = draw_hour_list(get_hours(data, 'project'), 'project-')
+	list1+= '<h2>Projects</h2><p>'+projectlist+'</p>'
+	list1+= '<h2>Categories</h2><p>'+catlist+'</p>'
+	list1+= draw_table(data)
+	prefix='sub-'+title
+	build_page(list1, prefix)
+
+def build_page_sub_all(data):
+	projectlist = get_hours(data, 'sub')
+	for i in projectlist:
+		build_page_sub(filter_db(data, 'sub', i[0]), i[0])
+
+# Build category page
+
+def build_page_cat_summary(data):
+	list = '<h1>Categories</h1>'
+	list += draw_hour_list(get_hours(data, 'cat'), 'cat-')
+	build_page(list, 'cat')
+
+# Build date pages
+def build_page_date_summary(data):
+	list1 = temp_date_nav()
+	list1 += '<h1>All time</h1>'
+	catlist = draw_hour_list(get_hours(data, 'cat'), 'cat-')
+	sublist = draw_hour_list(get_hours(data, 'sub'), 'sub-')
+	projectlist = draw_hour_list(get_hours(data, 'project'), 'project-')
 	list1+= '<h2>Projects</h2><p>'+projectlist+'</p>'
 	list1+= '<h2>Categories</h2><p>'+catlist+'</p>'
 	list1+= '<h2>Subcategories</h2><p>'+sublist+'</p>'
-	list1+= draw_summary(data)
-	f = open("scalzi/"+title+".html", "w")
-	f.write(list1)
-	f.close()
+	list1+= draw_table(data)
+	build_page(list1, 'date')
 
-
-def build_subcat_page(data):
-	list1 = '<p><a href="date.html">date</a> - hours - <a href="cat.html">category</a> - <a href="sub.html">subcategory</a> - <a href="project.html">project</a> - title - description</p><hr>'
-	list1 += "<h1>Subcategories</h1>"
-	sublist = draw_hour_list(get_hours(data, 'sub'))
-	list1+= '<p>'+sublist+'</p>'
-	f = open("scalzi/sub.html", "w")
-	f.write(list1)
-	f.close()
-
-def build_project_page(data):
-	list1 = '<p><a href="date.html">date</a> - hours - <a href="cat.html">category</a> - <a href="sub.html">subcategory</a> - <a href="project.html">project</a> - title - description</p><hr>'
-	list1 += "<h1>Projects</h1>"
-	projectlist = draw_hour_list(get_hours(data, 'project'))
-	list1+= '<p>'+projectlist+'</p>'
-	f = open("scalzi/project.html", "w")
-	f.write(list1)
-	f.close()
-
-def build_cat_page(data):
-	list1 = '<p><a href="date.html">date</a> - hours - <a href="cat.html">category</a> - <a href="sub.html">subcategory</a> - <a href="project.html">project</a> - title - description</p><hr>'
-	list1 += "<h1>Projects</h1>"
-	catlist = draw_hour_list(get_hours(data, 'cat'))
-	list1+= '<p>'+catlist+'</p>'
-	f = open("scalzi/cat.html", "w")
-	f.write(list1)
-	f.close()
-
-def build_project_summary(data, project_name):
-	list1 = '<p><a href="date.html">date</a> - hours - <a href="cat.html">category</a> - <a href="sub.html">subcategory</a> - <a href="project.html">project</a> - title - description</p><hr>'
-	list1 += "<h1>"+str(project_name)+"</h1>"
-	catlist = draw_hour_list(get_hours(data, 'cat'))
-	sublist = draw_hour_list(get_hours(data, 'sub'))
+def build_page_date(data, title):
+	list1 = temp_date_nav()
+	list1 += "<h1>"+str(title)+"</h1>"
+	catlist = draw_hour_list(get_hours(data, 'cat'), 'cat-')
+	sublist = draw_hour_list(get_hours(data, 'sub'), 'sub-')
+	projectlist = draw_hour_list(get_hours(data, 'project'), 'project-')
+	list1+= '<h2>Projects</h2><p>'+projectlist+'</p>'
 	list1+= '<h2>Categories</h2><p>'+catlist+'</p>'
 	list1+= '<h2>Subcategories</h2><p>'+sublist+'</p>'
-	f = open("scalzi/project-"+str(project_name)+".html", "w")
-	f.write(list1)
-	f.close()
+	list1+= draw_table(data)
+	prefix='date-'+title
+	build_page(list1, prefix)
 
-def build_all_project_summary(data):
-	projectlist = get_hours(data, 'project')
-	for i in projectlist:
-		build_project_summary(filter_db(data, 'project', i[0]), i[0])
-
-
-# commands, do not use<p>
+def build_page_date_all(data):
+	list_year = [2017, 2018, 2019, 2020, 2021]
+	list_month = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+	for i in list_year:
+		data_year=filter_year(data, i)
+		build_page_date(data_year, str(i))
+		for j in list_month:
+			data_month=filter_month(data_year, j)
+			month_title = str(i)+'-'+str(j)
+			build_page_date(data_month, month_title)
+# commands, do not use
 
 data1 = parse_db(get_db("scalzi_source.txt"))
 
-build_yearly_page(data1, "date")
-build_yearly_page(filter_year(data1, 2021), "2021")
-build_yearly_page(filter_year(data1, 2020), "2020")
-build_yearly_page(filter_year(data1, 2019), "2019")
-build_yearly_page(filter_year(data1, 2018), "2018")
-build_yearly_page(filter_year(data1, 2017), "2017")
-build_cat_page(data1)
-build_subcat_page(data1)
-build_project_page(data1)
+build_page_project_summary(data1)
+build_page_sub_summary(data1)
+build_page_cat_summary(data1)
+build_page_date_summary(data1)
+build_page_project_all(data1)
+build_page_sub_all(data1)
+build_page_date_all(data1)
 
-build_all_project_summary(data1)
+
+#
+# old version of building pages
+# build_yearly_page(data1, "date")
+# build_yearly_page(filter_year(data1, 2020), "2020")
+# build_yearly_page(filter_year(data1, 2019), "2019")
+# build_yearly_page(filter_year(data1, 2018), "2018")
+# build_yearly_page(filter_year(data1, 2017), "2017")
+# build_cat_page(data1)
+# build_subcat_page(data1)
+# build_project_page(data1)
+# build_all_project_summary(data1)
+
 #projectlist = draw_hour_list(get_hours(data2, 'project'), 'Projects')
 #catlist = draw_hour_list(get_hours(data2, 'cat'), 'Categories')
 #sublist = draw_hour_list(get_hours(data2, 'sub'), 'Subcategories')
