@@ -91,7 +91,7 @@ def get_hours(data, column):
 def draw_hour_list(stats, column=''):
 	lista='<ul style="columns: 2">'
 	for i in stats:
-		 lista+='<li><a href="'+column+str(i[0])+'.html">'+str(i[0])+'</a>	- '+str(i[1])+'h</li>'
+		 lista+='<li><a href="'+column+str(i[0]).lower()+'.html">'+str(i[0])+'</a>	- '+str(i[1])+'h</li>'
 	lista+='</ul>'
 	return lista
 
@@ -182,7 +182,7 @@ def build_page_sub(data, title):
 	list1+= '<h2>Projects</h2><p>'+projectlist+'</p>'
 	list1+= '<h2>Categories</h2><p>'+catlist+'</p>'
 	list1+= draw_table(data)
-	prefix='sub-'+title
+	prefix='sub-'+title.lower()
 	build_page(list1, prefix)
 
 def build_page_sub_all(data):

@@ -1,3 +1,146 @@
+21/10/07-3-RESR-STD-zbd-stata, python
+21/10/06-1-RESR-LEC-zbd-osint
+21/10/05-1-DATA-INS-resolutions-monthly summary and yearly theme
+21/10/05-1-CREA-PER-zbd-choir-pierwsze zajęcia
+21/10/05-1-RESR-STD-zbd-data viz
+21/10/04-1-RESR-DOC-bovolo-notes on scattered minds
+21/10/04-4-RESR-LEC-zbd-big data wykłady
+21/10/03-2-RESR-STD-foscari-mate, scattered minds-fin
+21/10/01-3-CREA-LEC-dev-jblow talk
+21/09/30-1-RESR-STD-foscari-mate, scattered minds-cont.
+21/09/29-4-CREA-PER-zbd-inauguracja wdib-próba i występ
+21/09/28-1-PHYS-ECO-zbd-dzien adaptacyjny
+21/09/28-1-RESR-STD-foscari-mate, scattered minds-cont.
+21/09/28-2-CREA-PER-zbd-chór-próby do inauguracji-cont.
+21/09/27-2-CREA-PER-zbd-chór-próby do inauguracji-cont.
+21/09/26-1-DATA-MNT-pesaro-sorting
+21/09/26-1-CREA-CON-negiverse-l crawler ideas
+21/09/26-2-PHYS-MNT-kikou-dzialka-sprzatanie
+21/09/25-1-PHYS-MNT-kikou-dzialka-sprzatanie
+21/09/24-1-PHYS-MNT-kikou-dzialka-sprzatanie
+21/09/23-1-PHYS-MNT-kikou-dzialka-sprzatanie
+21/09/21-2-CREA-PER-zbd-chór-próby do inauguracji
+21/09/19-2-RESR-DOC-bovolo-mahjong terminology-fin
+21/09/18-2-RESR-DOC-bovolo-mahjong terminology
+21/09/18-1-RESR-LEC-foscari-recipes for disaster-skimmed, fin
+21/09/17-3-PHYS-MNT-home-wywoz złomu-fin
+21/09/15-2-PHYS-MNT-home-wywoz złomu-cont.
+21/09/13-1-PHYS-PLN-zbd-rejestracje na zajecia
+21/09/13-1-RESR-STD-foscari-misc stoic readings
+21/09/13-2-RESR-EXP-dev-emacs-orgmode
+21/09/12-2-RESR-EXP-dev-emacs-basics
+21/09/12-1-RESR-STD-bovolo-prehistoric timeline-fin
+21/09/12-2-CREA-CON-games-thinking about improving morrowind formula
+21/09/11-1-RESR-LEC-dev-dark patterns in games
+21/09/11-1-PHYS-MNT-home-transport kaloryferow
+21/09/11-2-RESR-STD-bovolo-geological eras-fin
+21/09/10-1-RESR-STD-bovolo-geological eras
+21/09/10-1-CREA-INS-grassi-journal catchup
+21/09/09-1-DATA-PLN-zbd-harmonogram rejestracji
+21/09/09-1-PHYS-MNT-home-cleaning
+21/09/03-3-PHYS-MNT-home-zbieranie złomu z dzialki
+21/09/01-1-DATA-INS-resolutions-august summary
+21/08/30-1-RESR-STD-foscari-war is a racket-fin
+21/08/30-4-PHYS-DIY-home-cięcie kaloryferów
+21/08/28-1-PHYS-MNT-home-zbieranie złomu z garażu
+21/08/27-1-RESR-STD-foscari-mate, scattered minds-cont.
+21/08/26-2-DATA-MNT-foscari-organizing manga lists
+21/08/20-4-PHYS-MNT-home-wywóz złomu
+21/08/18-3-PHYS-DIY-home-zbieranie złomu z działki
+21/08/16-1-RESR-LEC-dev-jon blow pioneers interview
+21/08/12-3-DATA-PLN-foscari-trimming movie and manga backlog
+21/08/12-1-RESR-STD-foscari-how to read a book-fin
+21/08/12-1-DATA-PLN-foscari-trimming book backlog
+21/08/11-2-RESR-STD-foscari-how to read a book-cont.
+21/08/11-1-RESR-LEC-foscari-merchants of doubt
+21/08/11-1-DATA-COD-scalzi-update and improvements
+21/08/11-1-DATA-DOC-masegno-misc permanent notes
+21/08/11-1-RESR-STD-foscari-dokkodo-fin
+21/08/10-1-RESR-STD-foscari-climate changed-fin
+21/08/09-1-RESR-STD-foscari-climate changed-cont.
+21/08/08-2-PHYS-MNT-kikou-oleksianka-ogarnianie
+21/08/07-1-PHYS-EXE-oro-oleksianka-volleyball practice
+21/08/07-1-PHYS-MNT-kikou-oleksianka-ogarnianie
+21/08/06-1-PHYS-MNT-kikou-oleksianka-ogarnianie
+21/08/05-2-PHYS-MNT-kikou-oleksianka-ogarnianie
+21/08/03-2-DATA-MNT-pesaro-sorting
+21/08/01-2-CREA-CON-negiverse-scenario
+21/07/30-1-PHYS-PRV-kikou-pakowanie na wyjazd
+21/07/27-1-RESR-STD-foscari-scattered minds
+21/07/25-2-DATA-PLN-foscari-manga reading lists
+21/07/21-1-PHYS-ECO-zbd-składanie papierow na zarządzanie big data
+21/07/20-2-DATA-DOC-masegno-ERE notes-rewriting
+21/07/15-1-RESR-STD-foscari-dokkodo
+21/07/15-1-PHYS-VIT-oro-szczepienie
+21/07/14-1-RESR-PER-zbd-3 egzaminy rekrutacyjne
+21/07/14-3-RESR-MEM-zbd-powtórki
+21/07/13-1-RESR-MEM-zbd-powtórki
+21/07/12-3-RESR-MEM-zbd-powtórki
+21/07/11-3-DATA-DOC-masegno-clear, atomic habits-making notes
+21/07/11-3-RESR-STD-foscari-clear, atomic habits-finished
+21/07/10-3-DATA-DOC-folklore-notes on standing stones and misc. folklore
+21/07/10-2-RESR-STD-foscari-clear, atomic habits
+21/07/08-1-RESR-STD-foscari-crary, 24/7-finished
+21/07/08-1-DATA-EDI-masegno-splitting notes about fisker's ERE
+21/07/07-1-RESR-LEC-folklore-bieszczadzkie wampiry i baczowie
+21/07/02-1-PHYS-ECO-zbd-zdjęcia do systemu
+21/06/30-1-DATA-ECO-zbd-zapisy ma studia
+21/06/29-1-PHYS-MNT-home-pomoc przy malowaniu
+21/06/27-1-PHYS-MNT-kikou-oleksianka-zamykanie działki
+21/06/27-1-PHYS-EXE-oro-oleksianka-volleyball practice
+21/06/26-1-PHYS-EXE-oro-oleksianka-volleyball practice
+21/06/26-1-PHYS-PRV-kikou-olesianka-pomoc przy drinkach
+21/06/25-1-PHYS-MNT-kikou-olesianka-sprzatanie
+21/06/25-1-CREA-STD-rpg-pathfinder rules
+21/06/25-1-PHYS-PRV-kikou-olesianka-pomoc przy drinkach
+21/06/24-1-CREA-SKE-ottagono-sketchbook
+21/06/24-1-PHYS-PRV-kikou-olesianka-pomoc przy drinkach
+21/06/24-1-PHYS-MNT-kikou-olesianka-sprzatanie
+21/06/23-1-PHYS-PRV-kikou-olesianka-pomoc przy drinkach
+21/06/19-2-PHYS-DIY-home-malowanie w łazience
+21/06/19-1-PHYS-MNT-home-meblowanie mojego pokoju
+21/06/18-2-PHYS-DIY-home-malowanie w łazience
+21/06/17-1-CREA-LEC-foscari-the witness audio logs
+21/06/17-2-CREA-DOC-bovolo-making smart notes-book summary
+21/06/17-1-CREA-DOC-masegno-transcribing misc. notes
+21/06/17-1-DATA-MNT-pesaro-sorting
+21/06/16-3-PHYS-DIY-home-malowanie mojego pokoju
+21/06/16-1-PHYS-MNT-home-przygotowanie do malowania mojego pokoju
+21/06/16-2-RESR-STD-bovolo-making smart notes-cd.
+21/06/15-1-RESR-STD-bovolo-making smart notes-cd.
+21/06/15-1-PHYS-DIY-home-pomoc przy malowaniu-cd.
+21/06/14-1-PHYS-DIY-home-pomoc przy malowaniu-cd.
+21/06/12-3-PHYS-DIY-home-pomoc przy malowaniu-cd.
+21/06/12-1-PHYS-MNT-home-zbieranie deszczowki
+21/06/12-2-RESR-LEC-foscari-teologia tolkiena
+21/06/11-2-RESR-LEC-foscari-teologia tolkiena
+21/06/10-2-RESR-DOC-masegno-new knowledge notes
+21/06/08-1-RESR-DOC-masegno-new knowledge notes
+21/06/07-4-CREA-DES-negiverse-ksk2 character design
+21/06/04-1-PHYS-ECO-calle-zalatwianie sprawy u notariusza
+21/06/02-1-PHYS-DIY-kikou-składanie grila
+21/06/01-1-PHYS-PRV-kikou-pakowanie na wyjazd
+21/06/01-1-DATA-INS-resolutions-may summary
+21/05/31-1-PHYS-DIY-home-malowanie scian-cd.
+21/05/30-2-PHYS-DIY-home-malowanie scian
+21/05/29-1-RESR-DOC-masegno-rewriting and sorting notes
+21/05/28-2-RESR-DOC-masegno-rewriting and sorting notes
+21/05/28-1-PHYS-MNT-home-yardwork
+21/05/26-1-PHYS-MNT-home-yardwork
+21/05/24-1-RESR-STD-foscari-yrvind, with 4 square meters of sail and one oar
+21/05/24-1-PHYS-MNT-home-yardwork-karczowanie dzikiego wina
+21/05/24-1-RESR-STD-bovolo-making smart notes
+21/05/22-1-PHYS-MNT-home-yardwork-cięcie drewna
+21/05/10-2-DATA-SRC-pesaro-sifting through downloaded folders for value
+21/05/10-1-RESR-MEM-bovolo-geography anki
+21/05/08-2-CREA-STD-rpg-pathfinder rulebook
+21/05/08-1-PHYS-VIT-oro-szczepienie
+21/05/07-4-DATA-COD-scalzi-rewritten page generator
+21/05/06-1-DATA-COD-scalzi-project summary
+21/05/05-1-RESR-STD-foscari-climate changed
+21/05/05-1-RESR-LEC-bovolo-jblow talk on introspection
+21/05/05-2-DATA-COD-scalzi-yearly summaries-in plain html
+21/05/05-1-DATA-MNT-pesaro-sorting and backup-fin
 21/05/04-2-DATA-MNT-pesaro-sorting and backup
 21/05/04-3-DATA-MNT-campanile-organizing external disk cd.
 21/05/03-3-DATA-MNT-campanile-organizing external disk
@@ -61,66 +204,6 @@
 21/03/05-3-CREA-PER-pascha-proba triduum
 21/03/03-3-RESR-STD-foscari-book about addictions
 21/03/03-1-DATA-MNT-murano-rewriting nites-cd.
-21/03/02-1-PHYS-MNT-home-acorn hunting
-21/03/01-1-DATA-INS-resolutions-february summary
-21/02/28-3-RESR-DOC-murano-rewriting saved notes
-21/02/27-1-RESR-DOC-murano-turning screenshots into new notes
-21/02/27-2-RESR-INS-murano-reading through old notes
-21/02/27-1-DATA-MNT-pesaro-sorting
-21/02/26-3-CREA-PER-pascha-proba do triduum
-21/02/23-2-DATA-MNT-ottagono-sorting books
-21/02/23-1-RESR-LEC-games-jblow and muratori, design talk
-21/02/22-1-DATA-SRC-ottagono-looking for books
-21/02/18-1-PHYS-PRV-calle-odbieranie paczek
-21/02/15-4-RESR-STD-foscari-curtis, new doc-fin
-21/02/14-1-RESR-STD-foscari-curtis, new doc
-21/02/13-1-PHYS-MNT-home-room room cleaning
-21/02/13-1-DATA-MNT-pesaro-sorting
-21/02/13-1-RESR-STD-foscari-curtis, new doc
-21/02/12-1-RESR-STD-foscari-curtis, new doc
-21/02/10-2-DATA-MNT-calle-deleting facebook activity
-21/02/10-2-RESR-LEC-foscari-gore, inconvenient truth
-21/02/09-1-PHYS-ECO-freelance-wydawanie inwentarza
-21/02/08-1-PHYS-MNT-home-odsniezanie
-21/01/31-1-RESR-STD-foscari-orlov, new age of sail
-21/01/31-1-PHYS-MNT-home-shoveling
-21/01/31-1-CREA-CON-games-seapunk rpg idea
-21/01/30-1-CREA-INS-grassi-reminiscing about childhood
-21/01/26-1-PHYS-DIY-home-pomoc w podwyzszaniu krzesła
-21/01/25-2-PHYS-ECO-bach-odebranie dyplomu
-21/03/24-1-RESR-MEM-japanese-anki
-21/03/24-1-RESR-MEM-bovolo-geography anki
-21/03/23-1-PHYS-SET-campanile-upgrade
-21/03/22-1-PHYS-SET-campanile-gpu install
-21/03/20-1-RESR-STD-games-ludotronics-finished skimming
-21/03/20-1-PHYS-ECO-freelance-paczka dla jedrzeja
-21/03/20-1-RESR-MEM-japanese-anki
-21/03/20-1-RESR-MEM-bovolo-geography anki
-21/03/19-3-CREA-PER-pascha-proba triduum
-21/03/19-1-PHYS-SET-campanile-ram+monitor test
-21/03/18-2-PHYS-DIY-campanile-cleaning, reassembling pc
-21/03/17-2-PHYS-PUR-campanile-buying gpu, r and monitor
-21/03/17-1-RESR-MEM-bovolo-geography anki
-21/03/17-1-PHYS-PRV-home-zakupy
-21/03/16-1-RESR-STD-games-ludotronics-cont.
-21/03/15-1-PHYS-PRV-home-zakupy
-21/03/15-1-PHYS-SRC-campanile-looking for pc parts
-21/03/15-2-DATA-SET-campanile-unfucking w10-fruitless effort
-21/03/14-1-RESR-STD-games-ludotronics-cont.
-21/03/14-1-RESR-STD-dev-exploratory programming for humanities
-21/03/13-2-RESR-MEM-bovolo-geography full test-136 minutes, 1395 cards
-21/03/13-1-DATA-MNT-murano-clearing yt playlists
-21/03/13-1-DATA-DOC-bovolo-ffmpeg and ytdl cookbook
-21/03/12-3-CREA-PER-pascha-proba triduum
-21/03/12-1-CREA-EDI-calle-namarie song release-editing and subtitles
-21/03/11-2-RESR-LEC-games-jblow interview
-21/03/11-1-PHYS-ECO-calle-negocjacja umów z orange
-21/03/11-3-DATA-SET-murano-final transfer to linux
-21/03/10-1-PHYS-MNT-freelance-inwentarz-wydawanie rzeczy
-21/03/07-1-RESR-STD-games-ludotronics
-21/03/05-3-CREA-PER-pascha-proba triduum
-21/03/03-3-RESR-STD-foscari-book about addictions
-21/03/03-1-DATA-MNT-murano-rewriting notes-cd.
 21/03/02-1-PHYS-MNT-home-acorn hunting
 21/03/01-1-DATA-INS-resolutions-february summary
 21/02/28-3-RESR-DOC-murano-rewriting saved notes
@@ -625,7 +708,7 @@
 19/11/12-1-PHYS-MNT-home-room cleaning
 19/11/11-1-CREA-STD-rpg-pathfinder 2e rules
 19/11/11-1-DATA-SET-rialto-launcher install
-19/11/10-3-CREA-STD-3d-blender 2.8-modeling, skinning
+19/11/10-3-CREA-STD-dev-blender 2.8-modeling, skinning
 19/11/07-2-CREA-EDI-medtek-photoshop cont.
 19/11/06-3-CREA-SKE-ottagono-model study
 19/11/06-1-RESR-LEC-medtek-it security
@@ -986,7 +1069,7 @@
 19/01/21-1-RESR-STD-foscari-deep work
 19/01/21-1-DATA-SRC-medtek-bibliografia na zadanie
 19/01/21-1-RESR-LEC-medtek-economics
-19/01/21-1-PHYS-EXE-swimming
+19/01/21-1-PHYS-EXE-oro-swimming
 19/01/20-3-CREA-PER-pascha
 19/01/19-2-RESR-SRC-murano-going through bookmarks
 19/01/18-2-RESR-SRC-murano-going through bookmarks
@@ -994,14 +1077,14 @@
 19/01/16-1-DATA-DOC-grassi-catchup
 19/01/16-3-RESR-LEC-medtek-mngmnt
 19/01/15-3-RESR-LNG-japanese-opinions&indirect speech
-19/01/14-1-PHYS-EXE-swimming-endurance exam-1150m in 30min
+19/01/14-1-PHYS-EXE-oro-swimming-endurance exam, 1150m in 30min
 19/01/14-1-RESR-STD-medtek-economics
 19/01/12-1-PHYS-MNT-home-rummage through mementos
 19/01/12-1-DATA-SRC-murano-rebuilt ebook library
 19/01/12-1-DATA-MNT-murano-fixing broken windows installation
 19/01/09-4-RESR-LEC-medtek-management
 19/01/07-1-CREA-CON-comic-agsa-x janek
-19/01/07-1-PHYS-EXE-swimming
+19/01/07-1-PHYS-EXE-oro-swimming
 19/01/07-1-RESR-LEC-medtek-economics
 19/01/07-2-DATA-COM-medtek-tech w edukacji-blog
 19/01/04-7-CREA-COM-freelance-toolmates-january
@@ -1025,7 +1108,7 @@
 18/12/19-1-RESR-LEC-medtek-mngmnt
 18/12/18-3-RESR-LNG-japanese-simple forms
 18/12/17-2-DATA-INS-resolutions-summary of 2018
-18/12/17-1-PHYS-EXE-swimming
+18/12/17-1-PHYS-EXE-oro-swimming
 18/12/17-3-RESR-MEM-medtek-transportation exam
 18/12/17-1-RESR-LEC-medtek-economics
 18/12/16-2-CREA-PER-pascha-msza
@@ -1037,7 +1120,7 @@
 18/12/11-3-DATA-COM-medtek-prezentacja-konspekt
 18/12/11-3-RESR-LNG-japanese
 18/12/10-1-DATA-EDI-medtek-presentacja cd
-18/12/10-1-PHYS-EXE-swimming
+18/12/10-1-PHYS-EXE-oro-swimming
 18/12/10-3-CREA-CON-comic-agsi-different scenarios
 18/12/10-2-DATA-MNT-pesaro-cleaning
 18/12/10-1-RESR-LEC-medtek-economics
@@ -1064,7 +1147,7 @@
 18/11/27-2-RESR-INS-masegno-jungian shadows and introspective writing
 18/11/27-3-RESR-LNG-japanese-kanji test
 18/11/26-1-RESR-LEC-medtek-economics
-18/11/26-1-PHYS-EXE-swimming
+18/11/26-1-PHYS-EXE-oro-swimming
 18/11/25-1-PHYS-PLN-pascha-plany na nowy rok
 18/11/21-3-RESR-LEC-medtek-mngmnt
 18/11/20-3-RESR-LNG-japanese-ta forms
@@ -1086,7 +1169,7 @@
 18/11/06-3-RESR-LNG-japanese-grammar exam
 18/11/05-1-CREA-INS-resolutions-notes on expression part 3
 18/11/05-2-RESR-LEC-medtek-economics
-18/11/05-1-PHYS-EXE-swimming
+18/11/05-1-PHYS-EXE-oro-swimming
 18/11/05-1-DATA-MNT-pesaro
 18/11/03-1-DATA-INS-resolutions-october summary
 18/10/31-4-RESR-LEC-medtek-management
@@ -1103,7 +1186,7 @@
 18/10/23-3-RESR-LNG-japanese-revision, word bank
 18/10/22-1-CREA-SKE-ottagono
 18/10/22-2-RESR-LEC-medtek-economics
-18/10/22-1-PHYS-EXE-swimming-end test, 1.5km/30min
+18/10/22-1-PHYS-EXE-oro-swimming-end test, 1.5km/30min
 18/10/21-3-CREA-PER-pascha-psalm i msza
 18/10/20-2-RESR-SRC-murano-finding misc info based on piled up notes
 18/10/18-1-DATA-PLN-murano-reading lists for mal
@@ -1112,14 +1195,14 @@
 18/10/16-2-CREA-PER-pascha-msza odpustowa
 18/10/16-3-RESR-LNG-japanese-te forms
 18/10/15-1-DATA-EDI-masegno-exported to websized
-18/10/15-1-PHYS-EXE-swimming
+18/10/15-1-PHYS-EXE-oro-swimming
 18/10/15-2-RESR-LEC-medtek-economics
 18/10/13-1-RESR-COM-medtek-technologie-zadanie na czysto
 18/10/11-2-RESR-STD-medtek-technologie informacyjne-elearning
 18/10/10-1-DATA-PLN-scalzi-day planning
 18/10/10-5-RESR-LEC-medtek-management&finances
 18/10/09-1-DATA-TRN-freelance-unbabel-15$
-18/10/09-1-PHYS-EXE-swimming
+18/10/09-1-PHYS-EXE-oro-swimming
 18/10/09-3-RESR-LNG-japanese
 18/10/09-1-DATA-MNT-pesaro
 18/10/07-1-RESR-INS-resolutions-rozkminiam co ze sobą zrobic
@@ -1128,9 +1211,9 @@
 18/10/03-1-CREA-SKE-calle-figuring out the elements
 18/10/03-4-RESR-LEC-medtek-management classes
 18/10/02-1-CREA-CON-rpg-started over as colonial story
-18/10/02-1-PHYS-EXE-swimming-new class
+18/10/02-1-PHYS-EXE-oro-swimming-new class
 18/10/02-3-RESR-LNG-japanese-new class-revision
-18/10/01-1-PHYS-PRV-swimming-buying gear
+18/10/01-1-PHYS-PRV-oro-swimming-buying gear
 18/10/01-2-DATA-INS-resolutions-september summary
 18/09/28-1-CREA-CON-games-cityscape-faction concepts
 18/09/27-1-DATA-MNT-murano-bookmark cleaning
@@ -1217,8 +1300,8 @@
 18/07/24-1-RESR-STD-nutrition-how not to die-guts and immune system diseases
 18/07/24-2-PHYS-MNT-home-mowing, cutting
 18/07/23-1-DATA-DOC-scalzi-fixing entries
-18/07/23-1-CREA-STD-3d-rendering, shading
-18/07/22-2-CREA-SET-3d-blender intro
+18/07/23-1-CREA-STD-dev-blender-rendering, shading
+18/07/22-2-CREA-SET-dev-blender intro
 18/07/22-1-DATA-DOC-scalzi-v1.0-feature complete, preparing for web version
 18/07/21-1-DATA-INS-resolutions-rudiment trends
 18/07/20-1-CREA-CON-games-twine-figuring out characters
@@ -1251,10 +1334,10 @@
 18/06/24-1-PHYS-MNT-home-home cleaning
 18/06/22-1-PHYS-PRV-calle-zakupy i pomoc tacie w pracy
 18/06/21-1-RESR-LEC-dev-finji talks
-18/06/21-1-PHYS-EXE-calle-clinic checkup
+18/06/21-1-PHYS-VIT-oro-clinic checkup
 18/06/19-1-DATA-COD-scalzi-v0.7-project summary page
 18/06/18-3-DATA-TRN-freelance-prezentacje dla marcina
-18/06/18-1-PHYS-EXE-calle-dentist
+18/06/18-1-PHYS-VIT-oro-dentist
 18/06/17-1-DATA-TRN-japanese-transcription-pomoc w japonskim dla klaudii
 18/06/17-2-RESR-STD-dev-studio management-reading finji cases
 18/06/15-1-DATA-MNT-pesaro-folders
@@ -1286,7 +1369,7 @@
 18/05/30-2-RESR-MEM-medtek-digitalization-exam
 18/05/29-2-RESR-MEM-medtek-systems
 18/05/29-2-RESR-MEM-medtek-ethics-exam
-18/05/29-1-PHYS-EXE-swimming-exam
+18/05/29-1-PHYS-EXE-oro-swimming-exam
 18/05/28-2-DATA-COD-website-rewrote the website css
 18/05/28-1-RESR-MEM-medtek-ethics
 18/05/26-4-DATA-TRN-freelance-prezentacje dla marcina-marketing
@@ -1295,7 +1378,7 @@
 18/05/23-1-CREA-SKE-ottagono-perspective study
 18/05/23-4-RESR-MEM-medtek-systems cont.
 18/05/22-1-RESR-MEM-medtek-systems theory
-18/05/22-1-PHYS-EXE-swimming-last class
+18/05/22-1-PHYS-EXE-oro-swimming-last class
 18/05/21-1-DATA-COM-calle-spread zakupowy 
 18/05/21-1-DATA-MNT-pesaro-cleaning
 18/05/18-4-RESR-LNG-japanese-tai and te verb forms
@@ -1305,16 +1388,16 @@
 18/05/16-1-RESR-MEM-japanese-anki
 18/05/16-2-CREA-SKE-ottagono
 18/05/16-1-DATA-CON-grassi-basic ideas and structure
-18/05/15-1-PHYS-EXE-swimming
+18/05/15-1-PHYS-EXE-oro-swimming
 18/05/15-1-RESR-MEM-japanese-anki
 18/05/14-2-DATA-SET-murano-customized murano
 18/05/14-1-PHYS-ECO-murano-bought a thinkpad
 18/05/13-1-RESR-STD-folklore-encyclopedias and fairy indices
 18/05/13-2-DATA-SRC-campanile-weekly catchup
 18/05/12-1-DATA-SRC-campanile-weekly catchup
-18/05/11-2-PHYS-EXE-swimming-tournament
+18/05/11-2-PHYS-EXE-oro-swimming-tournament
 18/05/10-1-CREA-INS-masegno
-18/05/10-2-PHYS-EXE-swimming-preparing for tournament
+18/05/10-2-PHYS-EXE-oro-swimming-preparing for tournament
 18/05/09-1-CREA-INS-masegno
 18/05/09-1-DATA-MNT-pesaro-cleaning folders
 18/05/09-2-CREA-SKE-ottagono-figure drawing
@@ -1336,7 +1419,7 @@
 18/04/27-3-RESR-LNG-japanese-verb modes
 18/04/27-2-RESR-CON-medtek-prezentacja na etyke
 18/04/26-1-DATA-TRN-freelance-toolmates maj
-18/04/24-1-PHYS-EXE-swimming-50m races
+18/04/24-1-PHYS-EXE-oro-swimming-50m races
 18/04/24-1-DATA-DES-masegno-device naming schemes
 18/04/22-2-DATA-SRC-campanile-weekly catchup
 18/04/20-2-CREA-DES-games-spirala-plansza lore i zawodnicy
@@ -1346,13 +1429,13 @@
 18/04/18-1-CREA-TRN-freelance-1000rooms-polish translation
 18/04/18-1-CREA-SKE-ottagono-teacher portraits
 18/04/18-1-RESR-STD-nutrition-notes on nutrition
-18/04/17-1-PHYS-EXE-swimming
+18/04/17-1-PHYS-EXE-oro-swimming
 18/04/13-3-RESR-LNG-japanese-counting, occurences, paying
 18/04/13-3-RESR-STD-foscari-skin in the game-finished at 13h
 18/04/12-2-RESR-STD-foscari-skin in the game
 18/04/11-5-RESR-STD-foscari-skin in the gsme
 18/04/10-1-RESR-STD-foscari-skin in the game
-18/04/10-1-PHYS-EXE-swimming
+18/04/10-1-PHYS-EXE-oro-swimming
 18/04/09-1-CREA-CON-games-notes on rayman 2
 18/04/08-1-DATA-COD-website-figured out how directories work
 18/04/07-2-DATA-SRC-campanile-weekend catchup with articles and bookmarks
@@ -1367,7 +1450,7 @@
 18/03/29-3-CREA-PER-pascha-wielki czwartek
 18/03/28-2-CREA-PER-pascha-stage practice
 18/03/28-2-PHYS-MNT-pascha-audio setup-and stage building
-18/03/27-1-PHYS-EXE-swimming
+18/03/27-1-PHYS-EXE-oro-swimming
 18/03/27-3-DATA-DOC-medtek-hasło do słownika parkosza-praca na dygitalizacje
 18/03/26-1-DATA-TRN-freelance-toolmates-teksty na kwiecien
 18/03/26-1-DATA-COD-website-footer and layout
@@ -1376,7 +1459,7 @@
 18/03/23-1-DATA-PLN-resolutions-milestones and goalposts
 18/03/21-3-CREA-INS-masegno-gathered and rewrote my '16-'18 diary thoughts
 18/03/20-3-CREA-CON-games-cityscape thing ideas
-18/03/20-1-PHYS-EXE-swimming
+18/03/20-1-PHYS-EXE-oro-swimming
 18/03/18-2-PHYS-MNT-home-winter wrap up-cleaning after weekend
 18/03/17-3-CREA-PER-pascha-practice
 18/03/16-3-RESR-LNG-japanese-ga ha and preps. of place
@@ -1390,7 +1473,7 @@
 18/03/08-3-RESR-STD-foscari-black swan
 18/03/07-3-RESR-STD-foscari-black swan
 18/03/06-4-RESR-STD-foscari-black swan
-18/03/06-1-PHYS-EXE-swimming
+18/03/06-1-PHYS-EXE-oro-swimming
 18/03/05-1-CREA-STO-comic-agsi-storyline, pont arc
 18/03/05-1-CREA-STD-pascha-intervals ear training
 18/03/04-2-DATA-PLN-campanile-catching up with overdue tasks
@@ -1401,14 +1484,14 @@
 18/03/01-1-DATA-DES-scalzi-thinking about categories and subs
 18/03/01-2-DATA-INS-resolutions-roundup and stats for first two months
 18/02/28-1-RESR-LNG-japanese-vocab4-cont
-18/02/27-1-PHYS-EXE-swimming
+18/02/27-1-PHYS-EXE-oro-swimming
 18/02/27-3-RESR-LNG-japanese-vocab jlpt4-tests
 18/02/25-2-DATA-SET-campanile-privacy reinforcement-fb, google
 18/02/24-2-CREA-PER-pascha-session
 18/02/22-2-DATA-TRN-freelance-toolmates-tlumaczenia dla marcina na marzec
 18/02/22-1-CREA-CON-games-well story-thinking up locations
 18/02/21-1-CREA-SKE-games-well story-sketching the 9 cats
-18/02/20-1-PHYS-EXE-swimming
+18/02/20-1-PHYS-EXE-oro-swimming
 18/02/20-1-RESR-LNG-japanese-kanji4
 18/02/18-2-DATA-MNT-campanile-killing some bookmarks
 18/02/17-2-CREA-PER-pascha-session-first
