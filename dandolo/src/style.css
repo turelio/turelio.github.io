@@ -1,4 +1,3 @@
-body {font-family: "Times New Roman", Times, serif;}
 .grid-container {display:grid;grid-template-columns:repeat(auto-fit, minmax(400px, 1fr));gap:1rem}
 .grid-item {display:block; border:1px dashed;padding:5px;margin:5px;height:20em;overflow:hidden;font-size:15px;}
 .ing-amount {float:right;}
