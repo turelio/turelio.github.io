@@ -1,7 +1,0 @@
-.grid-container {display:grid;grid-template-columns:repeat(auto-fit, minmax(400px, 1fr));gap:1rem}
-.grid-item {display:block; border:1px dashed;padding:10px;margin:0px;height:20em;overflow:hidden;font-size:15px;}
-.ing-amount {float:right;}
-ul.ing-list > li:nth-of-type(odd) {background-color:silver}
-ul.ing-list {list-style-type: none;padding:1px;margin:1;}
-li {padding:1px;}
-body {margin-left:5em;margin-right:5em;}
